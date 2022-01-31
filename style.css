@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: lightcyan;
+}
+
+div {
+    /*padding-top: 100px;*/
+    border: 1px solid black;
+    width: 400px;
+    margin: auto;
+    height: 400px;
+    padding-bottom: 30px;
+}
+
+h1 {
+    color: blue;
+}
+
+label {
+    color: green;
+}
+
+button, input[type="reset"] {
+    margin-top: 10px;
+    background-color: blue;
+    color: white;
+}
